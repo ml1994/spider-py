@@ -76,7 +76,7 @@ def parse_list(url):
         else:
             topic.save(force_insert=True)
 
-        # parse_topic(topic_url)
+        parse_topic(topic_url)
         # parse_author(author_url)
 
     # 分页 上一页和下一页用的相同class 需要处理
