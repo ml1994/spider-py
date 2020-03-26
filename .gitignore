@@ -1,0 +1,11 @@
+
+.gitignore
+.idea/.gitignore
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/spider-py.iml
+.idea/vcs.xml
+__pycache__/
+threadpool_spider.py
+venv/
